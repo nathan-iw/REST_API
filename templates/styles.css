@@ -1,0 +1,21 @@
+body {
+    background-repeat: repeat;
+    text-align: center;
+    font-family: "Roboto";
+    margin: 0;
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.centre {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
